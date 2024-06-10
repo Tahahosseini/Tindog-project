@@ -41,7 +41,7 @@
   font-family: $montserrat, sans-serif;
   font-weight: $black;
   line-height: 1.5;
-  user-select: none;
+  // user-select: none;
 }
 
 .title-container {
@@ -88,17 +88,17 @@
     margin-bottom: 1rem;
   }
 
-  .check-ic:hover {
-    color: #47ff5f;
-  }
+  // .check-ic:hover {
+  //   color: #47ff5f;
+  // }
 
-  .bullseye-ic:hover {
-    color: #ff2929;
-  }
+  // .bullseye-ic:hover {
+  //   color: #ff2929;
+  // }
 
-  .heart-ic:hover {
-    color: #ff99ee;
-  }
+  // .heart-ic:hover {
+  //   color: #ff99ee;
+  // }
 
   .head-feature {
     font-weight: $black;

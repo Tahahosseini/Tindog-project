@@ -22,9 +22,6 @@ h5,
 h6 {
   font-weight: 900;
   font-family: "Montserrat", sans-serif;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
 }
 
 a {
@@ -70,9 +67,6 @@ img {
   font-family: "Montserrat", sans-serif, sans-serif;
   font-weight: 900;
   line-height: 1.5;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
 }
 
 .title-container {
@@ -112,15 +106,6 @@ img {
 .features .feature-ic {
   color: #ef8172;
   margin-bottom: 1rem;
-}
-.features .check-ic:hover {
-  color: #47ff5f;
-}
-.features .bullseye-ic:hover {
-  color: #ff2929;
-}
-.features .heart-ic:hover {
-  color: #ff99ee;
 }
 .features .head-feature {
   font-weight: 900;
